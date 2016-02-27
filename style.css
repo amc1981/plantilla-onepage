@@ -3,24 +3,24 @@
   padding-top:50px;
 }
 .foto-section1{
-	background-image:url(images/overhead-shot-of-teacup.jpg);
+	background-image:url(images/imagen-fondo-s1.jpg);
 	background-size:cover;
 	background-repeat:no-repeat;
 }
 
 .foto-section2{
-	background-image:url(images/pexels-photo.jpg);
+	background-image:url(images/imagen-fondo-s2.jpg);
 	background-size:cover;
 	background-repeat:no-repeat;
 }
 .foto-section3{
-	background-image:url(images/overhead-shot-of-teacup.jpg);
+	background-image:url(images/imagen-fondo-s1.jpg);
 
 	background-size:cover;
 	background-repeat:no-repeat;
 }
 .foto-section4{
-	background-image:url(images/pexels-photo.jpg);
+	background-image:url(images/imagen-fondo-s2.jpg);
 	background-size:cover;
 	background-repeat:no-repeat;
 }
