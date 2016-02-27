@@ -2,11 +2,49 @@
   height: 100vh;
   padding-top:50px;
 }
+.foto-section1{
+	background-image:url(images/overhead-shot-of-teacup.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+.foto-section2{
+	background-image:url(images/pexels-photo.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.foto-section3{
+	background-image:url(images/overhead-shot-of-teacup.jpg);
+
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.foto-section4{
+	background-image:url(images/pexels-photo.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.home{
+	padding-top:100px;
+	margin:250px;
+}
 
 img.avatar {
   border-radius: 50%;
 }
-.color1
+.color-aux1
 {
-	background-color: black;
+	background-color: #888 ;
+}
+.color-aux2
+{
+	background-color: #188 ;
+}
+.color-aux3
+{
+	background-color: #818 ;
+}
+.color-aux4
+{
+	background-color: #881 ;
 }
